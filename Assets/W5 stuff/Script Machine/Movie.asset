@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Movie
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Moving
+      + Animation State","summary":null,"pan":{"x":-13.10279,"y":-6.863892},"zoom":0.8,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-203.0,"y":-62.0},"guid":"9d85ea86-5706-4ffc-9405-5b8a10117e9d","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"36536de0-a4cd-4da6-9cd1-141afb46d8ae","$version":"A","$type":"Unity.VisualScripting.Update"},{"FloatValue":null,"Vector2Value":null,"InputActionChangeType":"OnPressed","coroutine":false,"defaultValues":{"Target":null,"InputAction":{"id":"c4bdb20c-83a8-4035-ba36-063cc3a4e020","name":"Move","expectedControlType":"Vector2","type":"Value","$type":"UnityEngine.InputSystem.InputAction"}},"position":{"x":-101.0,"y":-183.0},"guid":"5932b2ed-31b3-4d3d-b834-639e27bbe575","$version":"A","$type":"Unity.VisualScripting.InputSystem.OnInputSystemEventButton"}],"$version":"A"}}'
+    _objectReferences: []
